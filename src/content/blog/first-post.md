@@ -1,7 +1,7 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
+title: "La Insoportable levedad del Ser"
+description: "Como intentar ser adulto a los casi 50"
+pubDate: "07/16/2029"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
